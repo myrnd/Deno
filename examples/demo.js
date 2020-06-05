@@ -1,0 +1,1 @@
+console.log('Welcome, You are running Javascript on Deno');

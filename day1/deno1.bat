@@ -1,1 +1,0 @@
-deno run https://deno.land/welcome.ts
