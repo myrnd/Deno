@@ -1,1 +1,4 @@
-console.log('Welcome, You are running Javascript on Deno');
+import * as COUNTRIES from './demo.js';
+
+var json = await COUNTRIES;
+console.log(json);
